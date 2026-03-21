@@ -1,0 +1,25 @@
+# Swift / Xcode build
+.build/
+Build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+Package.resolved
+
+# macOS app bundle (build artifact)
+*.app/
+
+# macOS system files
+.DS_Store
+*.swp
+*~
+
+# IDE
+.idea/
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
