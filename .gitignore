@@ -19,6 +19,9 @@ Package.resolved
 *.swp
 *~
 
+# Claude Code
+CLAUDE.md
+
 # IDE
 .idea/
 *.xcworkspace
